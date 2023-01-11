@@ -1,0 +1,13 @@
+
+.container{
+    margin-top: 1em;
+}
+.productList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    justify-content: space-around;
+    margin-top: 2em;
+    padding-block: 2em;
+    align-items: center;
+}
